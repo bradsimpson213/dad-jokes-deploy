@@ -1,0 +1,1 @@
+from .joke_form import JokeForm

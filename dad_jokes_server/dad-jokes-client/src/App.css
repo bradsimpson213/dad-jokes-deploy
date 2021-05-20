@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'AmaticSC';
+  src: url('./assets/AmaticSC-Bold.ttf') format('truetype');
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

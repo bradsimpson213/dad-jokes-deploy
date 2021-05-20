@@ -1,0 +1,35 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    margin: 10px 0px 0px 25px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 10px 0px 0px 25px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0px 0px 25px;
+}
+
+a:visited {
+   color: red;
+}
+
+nav {
+    border-bottom: 1px solid blue;
+    margin-bottom: 20px;
+}
+
+.jokebox {
+    border: 1px solid white;
+    padding: 15px;
+}
