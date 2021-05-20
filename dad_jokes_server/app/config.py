@@ -7,3 +7,4 @@ class Config(object):
     # .env info DATABASE_URL = postgresql://dadjokes_test:password@localhost/dadjokesdb_test
     SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL") 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SQLALCHEMY_ECHO=True
