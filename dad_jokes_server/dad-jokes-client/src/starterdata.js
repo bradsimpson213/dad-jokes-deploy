@@ -37,18 +37,6 @@ const starterJokes = [
         jokeRating: "G"
     },
     {
-        jokeId: 7,
-        jokeBody: "What did the plumber say to the singer?",
-        jokePunchline: "Nice pipes...",
-        jokeRating: "G"
-    },
-    {
-        jokeId: 8,
-        jokeBody: "What do you call a lazy doctor?",
-        jokePunchline: "Dr Doo-little...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 9,
         jokeBody: "Did you know on average people want 3 covers on the bed at all times?",
         jokePunchline: "That's just a blanket statement...",
@@ -65,12 +53,6 @@ const starterJokes = [
         jokeBody: "Where would you grow a chef?",
         jokePunchline: "Bakersfield...",
         jokeRating: "G"
-    },
-    {
-        jokeId: 12,
-        jokeBody: "What do you call a camel in a drought?",
-        jokePunchline: "A dry humper...",
-        jokeRating: "PG"
     },
     {
         jokeId: 13,
@@ -199,12 +181,6 @@ const starterJokes = [
         jokeRating: "G"
     },
     {
-        jokeId: 34,
-        jokeBody: "Why did the scarecrow win an award?",
-        jokePunchline: "Because he was outstanding in his field...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 35,
         jokeBody: "Why was the coach yelling at a vending machine?",
         jokePunchline: "He wanted his quarter back...",
@@ -258,12 +234,7 @@ const starterJokes = [
         jokePunchline: "Itenticle...",
         jokeRating: "G"
     },
-    {
-        jokeId: 44,
-        jokeBody: "How do you weigh a millennial?",
-        jokePunchline: "In Instagrams...",
-        jokeRating: "G"
-    },
+ 
     {
         jokeId: 45,
         jokeBody: "Why don’t crabs give to charity?",
@@ -289,31 +260,18 @@ const starterJokes = [
         jokeRating: "PG"
     },
     {
-        jokeId: 49,
-        jokeBody: "How do trees access the internet?",
-        jokePunchline: "They log in...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 50,
         jokeBody: "A slice of apple pie is $2.50 in Jamaica and $3.00 in the Bahamas...",
         jokePunchline: "These are the pie rates of the Caribbean...",
         jokeRating: "G"
     },
-
     {
         jokeId: 51,
         jokeBody: "How do you find Will Smith in a snowstorm?",
         jokePunchline: "You look for fresh prints...",
         jokeRating: "G"
     },
-    {
-        jokeId: 52,
-        jokeBody: "What do you call a bundle of hay in a church?",
-        jokePunchline: "Christian Bale...",
-        jokeRating: "PG"
-    },
-    {
+     {
         jokeId: 53,
         jokeBody: "What’s an astronaut’s favorite part of the computer?",
         jokePunchline: "The space bar...",
