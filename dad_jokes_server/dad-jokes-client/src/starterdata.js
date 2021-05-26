@@ -248,12 +248,6 @@ const starterJokes = [
         jokeRating: "G"
     },
     {
-        jokeId: 47,
-        jokeBody: "What kind of exercises do lazy people do?",
-        jokePunchline: "Diddly squats...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 48,
         jokeBody: "Why did the coffee file a police report?",
         jokePunchline: "It got mugged...",
@@ -278,22 +272,10 @@ const starterJokes = [
         jokeRating: "G"
     },
     {
-        jokeId: 54,
-        jokeBody: "Why did the scarecrow win an award?",
-        jokePunchline: "Because he was outstanding in his field...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 55,
         jokeBody: "What did the grape do when he got stepped on?",
         jokePunchline: "He let out a little wine...",
         jokeRating: "PG"
-    },
-    {
-        jokeId: 56,
-        jokeBody: "How did Darth Vader know what Luke got him for Christmas?",
-        jokePunchline: "He felt his presents...",
-        jokeRating: "G"
     },
     {
         jokeId: 57,
@@ -301,12 +283,7 @@ const starterJokes = [
         jokePunchline: "They make up everything...",
         jokeRating: "G"
     },
-    {
-        jokeId: 58,
-        jokeBody: "What was Forrest Gump’s email password?",
-        jokePunchline: "1forrest1...",
-        jokeRating: "PG"
-    },
+   
     {
         jokeId: 59,
         jokeBody: "What did one ocean say to the other ocean?",

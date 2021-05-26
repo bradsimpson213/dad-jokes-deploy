@@ -66,7 +66,22 @@ def seed_jokes():
         joke_body='How do you weigh a millennial?',
         punchline='In Instagrams...',
         rating='G',
-        user=user1)
+        user=user1
+    )
+
+    joke10 = Joke (
+        joke_body='How did Darth Vader know what Luke got him for Christmas?',
+        punchline='He felt his presents...',
+        rating='G',
+        user=user1
+    )
+
+    joke11 = Joke (
+        joke_body='What was Forrest Gump’s email password?',
+        punchline='1forrest1...',
+        rating='PG',
+        user=user2
+    )
 
 
     db.session.add(joke1)
@@ -78,6 +93,8 @@ def seed_jokes():
     db.session.add(joke7)
     db.session.add(joke8)
     db.session.add(joke9)
+    db.session.add(joke10)
+    db.session.add(joke11)
     db.session.commit()
 
 # Uses a raw SQL query to TRUNCATE the jokes table.
