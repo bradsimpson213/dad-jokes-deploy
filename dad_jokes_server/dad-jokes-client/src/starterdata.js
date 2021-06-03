@@ -278,19 +278,6 @@ const starterJokes = [
         jokeRating: "PG"
     },
     {
-        jokeId: 57,
-        jokeBody: "Why can’t you trust atoms?",
-        jokePunchline: "They make up everything...",
-        jokeRating: "G"
-    },
-   
-    {
-        jokeId: 59,
-        jokeBody: "What did one ocean say to the other ocean?",
-        jokePunchline: "Nothing, they just waved...",
-        jokeRating: "G"
-    },
-    {
         jokeId: 60,
         jokeBody: "Why don’t oysters share their pearls?",
         jokePunchline: " Because they’re shellfish...",
