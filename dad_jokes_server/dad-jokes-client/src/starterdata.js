@@ -247,12 +247,7 @@ const starterJokes = [
         jokePunchline: "You will see one later and one in a while...",
         jokeRating: "G"
     },
-    {
-        jokeId: 48,
-        jokeBody: "Why did the coffee file a police report?",
-        jokePunchline: "It got mugged...",
-        jokeRating: "PG"
-    },
+
     {
         jokeId: 50,
         jokeBody: "A slice of apple pie is $2.50 in Jamaica and $3.00 in the Bahamas...",
@@ -270,12 +265,6 @@ const starterJokes = [
         jokeBody: "What’s an astronaut’s favorite part of the computer?",
         jokePunchline: "The space bar...",
         jokeRating: "G"
-    },
-    {
-        jokeId: 55,
-        jokeBody: "What did the grape do when he got stepped on?",
-        jokePunchline: "He let out a little wine...",
-        jokeRating: "PG"
     },
     {
         jokeId: 60,
