@@ -260,12 +260,7 @@ const starterJokes = [
         jokePunchline: "You look for fresh prints...",
         jokeRating: "G"
     },
-     {
-        jokeId: 53,
-        jokeBody: "What’s an astronaut’s favorite part of the computer?",
-        jokePunchline: "The space bar...",
-        jokeRating: "G"
-    },
+  
     {
         jokeId: 60,
         jokeBody: "Why don’t oysters share their pearls?",
@@ -278,12 +273,7 @@ const starterJokes = [
         jokePunchline: "The CIEIO...",
         jokeRating: "G"
     },
-    {
-        jokeId: 62,
-        jokeBody: "How do astronomers organize a party?",
-        jokePunchline: " They planet...",
-        jokeRating: "G"
-    },
+  
     {
         jokeId: 63,
         jokeBody: "How do you deal with a fear of speed bumps?",
