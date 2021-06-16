@@ -105,23 +105,10 @@ def seed_jokes():
         rating='G',
         user=user2
     ) 
-
-    db.session.add(joke1)
-    db.session.add(joke2)
-    db.session.add(joke3)
-    db.session.add(joke4)
-    db.session.add(joke5)
-    db.session.add(joke6)
-    db.session.add(joke7)
-    db.session.add(joke8)
-    db.session.add(joke9)
-    db.session.add(joke10)
-    db.session.add(joke11)
-    db.session.add(joke12)
-    db.session.add(joke13)
-    db.session.add(joke14)
-    db.session.add(joke15)
-    db.session.add(joke16)
+    jokes = [joke1, joke2, joke3, joke4, joke5, joke6, joke7, joke8,
+            joke9, joke10, joke11, joke12, joke13, joke14, joke15,
+            joke16 ]
+    db.session.add_all(jokes)
     db.session.commit()
 
 # Uses a raw SQL query to TRUNCATE the jokes table.
