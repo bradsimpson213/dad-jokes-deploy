@@ -66,7 +66,6 @@ def seed_jokes():
         rating='G',
         user=user1
     )
-
     joke11 = Joke (
         joke_body='What was Forrest Gump’s email password?',
         punchline='1forrest1...',
@@ -91,23 +90,34 @@ def seed_jokes():
         rating='PG',
         user=user1
     ) 
-
     joke15 = Joke (
         joke_body='What’s an astronaut’s favorite part of the computer?',
         punchline='The space bar...',
         rating='G',
         user=user2
-    ) 
-
+    )
     joke16 = Joke (
         joke_body='How do astronomers organize a party?',
         punchline='They planet...',
         rating='G',
         user=user2
-    ) 
+    )
+    joke17 = Joke (
+        joke_body='I wrote a song about a tortilla...',
+        punchline='Well actually, it’s more of a wrap...',
+        rating='PG',
+        user=user3
+    )
+    joke18 = Joke (
+        joke_body='Why don’t oysters share their pearls?',
+        punchline='Because they’re shellfish...',
+        rating='G',
+        user=user3
+    )
+
     jokes = [joke1, joke2, joke3, joke4, joke5, joke6, joke7, joke8,
             joke9, joke10, joke11, joke12, joke13, joke14, joke15,
-            joke16 ]
+            joke16, joke17, joke18 ]
     db.session.add_all(jokes)
     db.session.commit()
 

@@ -260,13 +260,6 @@ const starterJokes = [
         jokePunchline: "You look for fresh prints...",
         jokeRating: "G"
     },
-  
-    {
-        jokeId: 60,
-        jokeBody: "Why don’t oysters share their pearls?",
-        jokePunchline: " Because they’re shellfish...",
-        jokeRating: "G"
-    },
     {
         jokeId: 61,
         jokeBody: "What do you call the boss at Old McDonald’s Farm?",
@@ -304,12 +297,7 @@ const starterJokes = [
         jokePunchline: "It was the best dam program I've ever seen...",
         jokeRating: "PG"
     },
-    {
-        jokeId: 68,
-        jokeBody: "I wrote a song about a tortilla...",
-        jokePunchline: "Well actually, it’s more of a wrap...",
-        jokeRating: "PG"
-    },
+    
     {
         jokeId: 69,
         jokeBody: "If you ever get cold, just stand in a corner...",
